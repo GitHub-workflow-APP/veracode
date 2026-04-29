@@ -1,4 +1,4 @@
-debug: true
+debug: false
 actions:
   veracode_static_scan:
     build:
