@@ -47,7 +47,7 @@ veracode_sca_scan:
     branches_to_run:
       - 'js-dyn*'
     branches_to_exclude:
-      - '*'
+      - 'main'
   pull_request:
     trigger: true
     action:
